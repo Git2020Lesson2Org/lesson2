@@ -82,7 +82,7 @@
 
 Абзац !!!!!
 
-![Красивый  кот](cat1.jpg)
+![Красивый  кот](https://litbro.ru/wp-content/uploads/2019/12/Koshka-Zolotaya-shinshilla-1.jpg)
 
 ### ЗАГОЛОВОК
 
