@@ -107,6 +107,8 @@
 5. Пункт
 6. Пункт
 
+Лучшая пицца для котА - маргаритА
+
 
 ```java
 public static void main(String[] args) {
