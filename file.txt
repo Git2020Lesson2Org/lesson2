@@ -21,14 +21,4 @@ fse wf3 w 3
   fw 3
   wf3
 
-fg
-hj
-fghfg
-h
-fgh
-fg
-hf
-g
-hf
-h
-ghf
+
