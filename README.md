@@ -11,6 +11,8 @@
 То текст продолжается
 [Ссылка на заголовок](#Header)
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](http://www.youtube.com/watch?v=w3jLJU7DT5E)
+
 Абзац
 
 > Какая-то **справочная** информация, сводка.
