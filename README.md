@@ -83,7 +83,7 @@
 
 Абзац !!!!!
 
-![Красивый  кот](https://cdn25.img.ria.ru/images/156087/28/1560872802_0:778:1536:1642_600x0_80_0_0_a303c45c5434596bcbb165471ce88fe4.jpg.webp)
+![Красивая  копибара](https://static.360tv.ru/media/article_media/fe74cba4c43a468c9990156cd0093e9f_201611220705.jpg)
 
 ### ЗАГОЛОВОК
 
